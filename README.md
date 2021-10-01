@@ -1,7 +1,6 @@
 ### Oioi 🍒 Eu sou Eduarda, prazer em te conhecer!!
 
 - 🔭 Estudante iniciante de front-end
-- 🌱 Aprendendo JavaScript
 - 💬 E-mail para contato: Eduardamartinsmoreira53@gmail.com
 - ✨ Fun fact: Apaixonada por Doramas, Anime, KPOP, gatinhos e Genshin Impact 
 
