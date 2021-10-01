@@ -1,9 +1,9 @@
-### Oioi 🍒 Eu sou Eduarda, prazer em te conhecer!!
+### Oioi 🍒 Eu sou Eduarda, prazer em te conhecer!! <img alt="gif" src="https://github.com/Whoeduma/Whoeduma/blob/main/dancing-sword.gif" width="80px">
+
 
 - 🔭 Estudante iniciante de front-end
 - 💬 E-mail para contato: Eduardamartinsmoreira53@gmail.com
 - ✨ Fun fact: Apaixonada por Doramas, Anime, KPOP, gatinhos e Genshin Impact 
-
 <div align="center">
   <a href="https://github.com/Whoeduma">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Whoeduma&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
