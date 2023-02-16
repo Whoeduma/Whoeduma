@@ -4,7 +4,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F8C4B4&size=35&center=true&vCenter=true&width=1000&lines=HI,+MY+NAME+is+Eduarda+Martins;I'm+21+years+old;I'm+a+FRONT-END+DEVELOPER;Be+Welcome!+:%29)](https://git.io/typing-svg)
   <br><br>
   
-  <h2 align="center">🍒&ensp; <i>SOBRE</i> &ensp;🍒</h2>
+  <h2 align="center">🍉&ensp; <i>SOBRE</i> &ensp;🍉</h2>
    <li> Totalmente apaixonada em gatos, doramas, genshin impact, livros de romance esportivo (cof cof off-campus cof cof), e anime.</li>
   <li> Estudando Analise e Desenvolvimento de sistema na <strong>Universidade Catolica de Brasília (UCB)</strong> e fazendo curso na <strong>Rocketseat</strong>.</li>
   <li>Tenho preferencia na aréa de FRONT-END, mas banco de dados tem roubado minha atenção. Quem sabe eu tento me aprofundar nessa aréa.</li>
